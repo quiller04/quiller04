@@ -32,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&labelColor=000000)&nbsp;
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=000000)&nbsp;
+ ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=000000)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-000000?style=for-the-badge&logo=microsoft-office&labelColor=000000)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
  
