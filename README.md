@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B7B7B&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B4513&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+Guilherme+Quiller;I'm+19+years+old;I+study+analysis+and+systems+development+at+USTJ;Be+Welcome!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+Guilherme+Quiller;I'm+19+years+old;I+study+analysis+and+systems+development+at+USTJ;Be+Welcome!!)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=quiller04&show_icons=true&count_private=true&hide_border=true&title_color=F5DEB3&icon_color=F5DEB3&text_color=F5DEB3&bg_color=4F4F4F" alt="Guilherme Quiller github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiller04&layout=compact&hide_border=true&title_color=F5DEB3&text_color=F5DEB3&bg_color=4F4F4F" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=quiller04&show_icons=true&count_private=true&hide_border=true&title_color=A0522D&icon_color=A0522D&text_color=A0522D&bg_color=000000" alt="Guilherme Quiller github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiller04&layout=compact&hide_border=true&title_color=A0522D&text_color=A0522D&bg_color=000000" />
 </div>
 
 
@@ -14,7 +14,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quiller04&bg_color=000000&color=8B4513&line=8B4513&point=8B4513&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quiller04&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
