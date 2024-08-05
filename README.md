@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005959&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+Guilherme+Quiller;I'm+19+years+old;I+study+analysis+and+systems+development+at+USTJ;Be+Welcome!!)](https://git.io/typing-svg)
 
