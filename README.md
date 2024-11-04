@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B7B7B&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+Guilherme+Quiller;I'm+19+years+old;I+study+analysis+and+systems+development+at+USTJ;Be+Welcome!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+Guilherme+Quiller;I'm+20+years+old;I+study+analysis+and+systems+development+at+USTJ;Be+Welcome!!)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -24,6 +24,7 @@
 </div> 
 
 ### Main skills:
+![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=for-the-badge&logo=powershell&labelColor=000000&logoColor=01A4EF)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=node.js&labelColor=000000&logoColor=68A063)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=000000&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)&nbsp;
