@@ -28,6 +28,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=node.js&labelColor=000000&logoColor=68A063)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=000000&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)&nbsp;
+![ChatGPT](https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=007396&labelColor=000000)&nbsp;
  
 ### Tools:
@@ -42,6 +43,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
  
 ### Other Knowledge:
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=8957E5)
+![Google Assistant](https://img.shields.io/badge/google%20assistant-000000?style=for-the-badge&logo=google%20assistant&logoColor=4285F4)
+![Meta](https://img.shields.io/badge/Meta-000000?style=for-the-badge&logo=Meta&logoColor=0467DF)
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=000000)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&labelColor=000000)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=000000)&nbsp;
