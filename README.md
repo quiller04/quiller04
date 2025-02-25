@@ -28,6 +28,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=node.js&labelColor=000000&logoColor=68A063)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=000000&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000000)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=007396&labelColor=000000)&nbsp;
  
@@ -52,7 +53,6 @@
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=000000)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=0095D5&labelColor=000000)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000000)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&labelColor=000000)&nbsp;
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C&labelColor=000000)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=000000)&nbsp;
