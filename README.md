@@ -1,66 +1,130 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B7B7B&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=HI,+I'M+Guilherme+Quiller;I'm+21+years+old;I+study+analysis+and+systems+development+at+USTJ;Be+Welcome!!)](https://git.io/typing-svg)
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                     HEADER MOTION BANNER                     -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:00D4FF&height=200&section=header&text=GUILHERME%20QUILLER&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Chief%20Technology%20Officer%20%E2%80%A2%20Geon%20AI&descAlign=50&descAlignY=62&descSize=18" width="100%"/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=quiller04&show_icons=true&count_private=true&hide_border=true&title_color=A0522D&icon_color=A0522D&text_color=A0522D&bg_color=000000" alt="Guilherme Quiller github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiller04&layout=compact&hide_border=true&title_color=A0522D&text_color=A0522D&bg_color=000000" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&lines=CTO+%40+Geon+AI;Arquiteto+de+Sistemas+de+Intelig%C3%AAncia+Artificial;Construindo+o+futuro+do+trabalho+com+IA;S%C3%A3o+Paulo+%E2%86%92+Brasil+%E2%86%92+Mundo)](https://git.io/typing-svg)
+
+<br>
+
+[![Geon AI](https://img.shields.io/badge/Geon_AI-geonai.tech-00D4FF?style=for-the-badge&labelColor=0A0A0A)](https://geonai.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Alves-00D4FF?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0A0A0A)](https://www.linkedin.com/in/guilherme-alves-55a68a273)
+[![Instagram](https://img.shields.io/badge/Instagram-%40geonai.tech-00D4FF?style=for-the-badge&logo=instagram&logoColor=00D4FF&labelColor=0A0A0A)](https://www.instagram.com/geonai.tech/)
+[![Email](https://img.shields.io/badge/Contato-contato%40geonai.com.br-00D4FF?style=for-the-badge&logo=maildotru&logoColor=00D4FF&labelColor=0A0A0A)](mailto:contato@geonai.com.br)
+
 </div>
 
+<br>
 
+---
 
+### `▌` SOBRE
 
+Sou **CTO da [Geon AI](https://geonai.tech)** — agência de inteligência artificial sediada em São Paulo, especializada no que chamamos de **Inteligência Estrutural**: um modelo em que agentes de IA não são complementos pontuais, e sim parte da operação do cliente.
 
+Lidero a arquitetura, o desenvolvimento e a equipe técnica responsável por entregar essa estrutura ponta a ponta. Nosso trabalho é claro: substituir tarefas repetitivas por agentes especializados — **Geons** — integrados aos sistemas que a empresa já usa, para que talento humano volte ao que importa: **estratégia, negociação e crescimento.**
 
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quiller04&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+### `▌` O QUE CONSTRUÍMOS NA GEON
 
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<div align="center">  
-<a href="https://www.instagram.com/quiller04_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/guilherme-alves-55a68a273" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-</div> 
+#### 🧠 Inteligência Conversacional
+- **CRM com IA integrada**
+- **Agentes de Ligação** automatizados
+- **Chat 24/7** com PLN avançado
+- Atendimento via WhatsApp Cloud API
 
-### Main skills:
-![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=for-the-badge&logo=powershell&labelColor=000000&logoColor=01A4EF)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=node.js&labelColor=000000&logoColor=68A063)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=000000&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000000)&nbsp;
-![ChatGPT](https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=007396&labelColor=000000)&nbsp;
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=000000)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&labelColor=000000)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&labelColor=000000)&nbsp;
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=000000)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-000000?style=for-the-badge&logo=microsoft-office&labelColor=000000)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&labelColor=000000)&nbsp;
- 
-### Other Knowledge:
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=8957E5)
-![Google Assistant](https://img.shields.io/badge/google%20assistant-000000?style=for-the-badge&logo=google%20assistant&logoColor=4285F4)
-![Meta](https://img.shields.io/badge/Meta-000000?style=for-the-badge&logo=Meta&logoColor=0467DF)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=000000)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5&labelColor=000000)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=000000)&nbsp;
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=000000)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=0095D5&labelColor=000000)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&labelColor=000000)&nbsp;
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C&labelColor=000000)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=000000)&nbsp;
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120&labelColor=000000)&nbsp;
+</td>
+<td width="33%" valign="top">
+
+#### 📈 Motor Comercial
+- **Prospecção outbound** automatizada
+- **BRD** e cadências inteligentes
+- Lead scoring com IA
+- Integração nativa com CRMs
+
+</td>
+<td width="33%" valign="top">
+
+#### 🏗️ Infraestrutura
+- Ambientes escaláveis sobre Azure
+- Pipelines de dados e PLN
+- Visão computacional aplicada
+- Observabilidade e auditoria
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### `▌` ARSENAL TÉCNICO
+
+#### Inteligência Artificial
+![Anthropic](https://img.shields.io/badge/-Anthropic-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=00D4FF&labelColor=0A0A0A)
+![Claude](https://img.shields.io/badge/-Claude-0A0A0A?style=for-the-badge&logo=claude&logoColor=00D4FF&labelColor=0A0A0A)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=00D4FF&labelColor=0A0A0A)
+![MCP](https://img.shields.io/badge/-MCP-0A0A0A?style=for-the-badge&logoColor=00D4FF&labelColor=0A0A0A&color=00D4FF)
+
+#### Desenvolvimento
+![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00D4FF&labelColor=0A0A0A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=00D4FF&labelColor=0A0A0A)
+![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=00D4FF&labelColor=0A0A0A)
+![VS Code](https://img.shields.io/badge/-VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00D4FF&labelColor=0A0A0A)
+
+#### Infraestrutura & Integrações
+![Azure](https://img.shields.io/badge/-Azure-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=00D4FF&labelColor=0A0A0A)
+![Docker](https://img.shields.io/badge/-Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=00D4FF&labelColor=0A0A0A)
+![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=0A0A0A)
+![WhatsApp API](https://img.shields.io/badge/-WhatsApp_Cloud_API-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=00D4FF&labelColor=0A0A0A)
+![n8n](https://img.shields.io/badge/-n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=00D4FF&labelColor=0A0A0A)
+![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=00D4FF&labelColor=0A0A0A)
+
+<br>
+
+---
+
+### `▌` ATIVIDADE
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{quiller04}/count.svg" /></p> 
-<br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=footer"/>
+
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=quiller04&bg_color=0A0A0A&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&radius=8&custom_title=Atividade%20de%20Desenvolvimento"/>
+
+</div>
+
+<br>
+
+---
+
+### `▌` FILOSOFIA DE TRABALHO
+
+> *Não entregamos automações. Implementamos a inteligência que faz seus processos trabalharem para você.*
+>
+> **— Geon AI**
+
+A Geon AI opera com **ambição internacional partindo de São Paulo**. Acreditamos que a próxima fronteira competitiva não está em quem usa IA — está em **quem a estrutura corretamente dentro da operação**. Construímos para durar, não para impressionar.
+
+<br>
+
+<div align="center">
+
+<a href="https://geonai.tech"><img src="https://img.shields.io/badge/Converse_com_a_Geon_AI-→-00D4FF?style=for-the-badge&labelColor=0A0A0A"/></a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A0A&height=120&section=footer&animation=fadeIn" width="100%"/>
