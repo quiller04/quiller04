@@ -10,9 +10,9 @@
 
 <br>
 
-[![Geon AI](https://img.shields.io/badge/Geon_AI-geonai.tech-00D4FF?style=for-the-badge&labelColor=0A0A0A)](https://geonai.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Alves-00D4FF?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0A0A0A)](https://www.linkedin.com/in/guilherme-alves-55a68a273)
-[![Instagram](https://img.shields.io/badge/Instagram-%40guilherme.quiller-00D4FF?style=for-the-badge&logo=instagram&logoColor=00D4FF&labelColor=0A0A0A)](https://www.instagram.com/guilherme.quiller/)
+[![Site Geon AI](https://img.shields.io/badge/GEONAI-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwRDRGRiIgZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01em0wIDIuMThMMTkgOHY4bC03IDMuODJMNSAxNlY4bDctMy44MnpNMTIgOGE0IDQgMCAxMDAgOCA0IDQgMCAwMDAtOHptMCAyYTIgMiAwIDExMCA0IDIgMiAwIDAxMC00eiIvPjwvc3ZnPg==&logoColor=00D4FF&labelColor=0A0A0A)](https://geonai.tech)
+[![Meu LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0A0A0A)](https://www.linkedin.com/in/guilherme-alves-55a68a273)
+[![Meu Instagram](https://img.shields.io/badge/guilherme.quiller-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00D4FF&labelColor=0A0A0A)](https://www.instagram.com/guilherme.quiller/)
 
 
 </div>
@@ -75,7 +75,6 @@ Lidero a arquitetura, o desenvolvimento e a equipe técnica responsável por ent
 ![Anthropic](https://img.shields.io/badge/-Anthropic-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=00D4FF&labelColor=0A0A0A)
 ![Claude](https://img.shields.io/badge/-Claude-0A0A0A?style=for-the-badge&logo=claude&logoColor=00D4FF&labelColor=0A0A0A)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=00D4FF&labelColor=0A0A0A)
-![MCP](https://img.shields.io/badge/-MCP-0A0A0A?style=for-the-badge&logoColor=00D4FF&labelColor=0A0A0A&color=00D4FF)
 
 #### Desenvolvimento
 ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00D4FF&labelColor=0A0A0A)
