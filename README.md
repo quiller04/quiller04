@@ -12,8 +12,8 @@
 
 [![Geon AI](https://img.shields.io/badge/Geon_AI-geonai.tech-00D4FF?style=for-the-badge&labelColor=0A0A0A)](https://geonai.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Alves-00D4FF?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0A0A0A)](https://www.linkedin.com/in/guilherme-alves-55a68a273)
-[![Instagram](https://img.shields.io/badge/Instagram-%40geonai.tech-00D4FF?style=for-the-badge&logo=instagram&logoColor=00D4FF&labelColor=0A0A0A)](https://www.instagram.com/geonai.tech/)
-[![Email](https://img.shields.io/badge/Contato-contato%40geonai.com.br-00D4FF?style=for-the-badge&logo=maildotru&logoColor=00D4FF&labelColor=0A0A0A)](mailto:contato@geonai.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-%40guilherme.quiller-00D4FF?style=for-the-badge&logo=instagram&logoColor=00D4FF&labelColor=0A0A0A)](https://www.instagram.com/guilherme.quiller/)
+
 
 </div>
 
